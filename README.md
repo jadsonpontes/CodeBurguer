@@ -6,7 +6,7 @@ ideal para visitantes que buscam informações rápidas sobre nossos produtos e 
 
 Funcionalidades
 Navegação Responsiva: A aplicação se adapta a diferentes tamanhos de tela, oferecendo uma experiência consistente em dispositivos móveis e desktop.
-Menu Interativo: Acesso fácil às seções de Início, Sobre, Menu, Avaliações e Endereço.
+Menu Interativo: Acesso fácil às seções de Menu BUrguer, Desconto Especial, Somar Conta e filtar Lanche 
 Design Atraente: Utiliza cores vibrantes e uma interface amigável para melhorar a experiência do usuário.
 Tecnologias Utilizadas
 HTML: Estrutura do conteúdo da página.
