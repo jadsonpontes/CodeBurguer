@@ -36,11 +36,13 @@ function applyDiscount() {
 
 function sumTotal() {
     const totalValue = menuOptions.reduce((acc, curr) => acc + curr.price, 0);
+    const itemsList = menuOptions.map(product => `${product.name}: ${formatCurrency(product.price)}`).join(', ');
     list.innerHTML = `
         <li>
+            <p>Itens: ${itemsList}</p>
             <p>O valor total dos itens é ${formatCurrency(totalValue)}</p>
         </li>
-    `;
+    `
 }
 
 function filterVeganItems() {
